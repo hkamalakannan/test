@@ -1,1 +1,1 @@
-cloud services training
+Cloud Services Training
