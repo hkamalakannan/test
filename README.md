@@ -1,12 +1,14 @@
-#Cloud Services Training
+# Cloud Services Training
 
-##Topics
--git
--Docker
+## Topics
+- git
+- Docker
 
 Some basic Git commands are:
 '''
+
 git status
 git commit
 git add
+
 '''
