@@ -64,7 +64,7 @@ spec:
       matchLabels:
         os: linux
         arch: arm
-  - uri: https://storage.googleapis.com/krew/v0.2.1/krew.zip
+  - uri: https://storage.googleapis.com/krew/v0.2.1/krew.zip/tst
     sha256: 57788e8c7af1b5b000954455aa9ca2e4a18a50a020faf54d18a3ccf79ad04049
     bin: krew.exe
     files:
