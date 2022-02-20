@@ -20,5 +20,18 @@ def func():
 Visit the link [PythonDownloadPage](https://www.python.org/downloads/) to download the latest release of **Python**.
 
 
+**Python Operators**
+
+- Arithmetic operators
+- Comparison operators
+- Assignment Operators
+- Logical Operators
+- Bitwise Operators
+- Membership Operators
+- Identity Operators
+
+1.Arithmetic operators
+ - Addition
+   - Substraction
 
 
