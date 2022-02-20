@@ -35,3 +35,8 @@ Visit the link [PythonDownloadPage](https://www.python.org/downloads/) to downlo
    - Substraction
 
 
+### TASK
+
+- [X] Task1 completed
+- [ ] Task2 in pending
+- [ ] Task3 in pending
