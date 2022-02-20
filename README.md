@@ -40,3 +40,8 @@ Visit the link [PythonDownloadPage](https://www.python.org/downloads/) to downlo
 - [X] Task1 completed
 - [ ] Task2 in pending
 - [ ] Task3 in pending
+
+
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+
+
