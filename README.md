@@ -39,7 +39,7 @@ Visit the link [PythonDownloadPage](https://www.python.org/downloads/) to downlo
 1.Arithmetic operators
  - Addition
    - Substraction
-
+- multiplication
 
 ### TASK
 
