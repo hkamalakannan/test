@@ -26,7 +26,7 @@ def func():
 Visit the link [PythonDownloadPage](https://www.python.org/downloads/) to download the latest release of **Python**.
 
 
-**Python Operators**
+**Python. Operators**
 
 - Arithmetic operators
 - Comparison operators
