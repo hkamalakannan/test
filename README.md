@@ -1,15 +1,4 @@
-# PYTHON
-
-## What is Python
-
-**Python** is a general purpose, dynamic, high-level, and interpreted programming language. It supports Object Oriented programming approach to develop applications. It is simple and easy to learn and provides lots of high-level data structures.
-
-*Python is an interpreted scripting language also. Guido Van Rossum is known as the founder of Python programming.*
-
-~~Python makes the development and debugging fast because there is no compilation step included in Python development, and edit-test-debug cycle is very fast.~~
-
-
-
+# Python
 >Python is easy to learn yet powerful and versatile scripting language, which makes it attractive for Application Development.
 
 ### Python Basic Syntax
@@ -50,5 +39,7 @@ Visit the link [PythonDownloadPage](https://www.python.org/downloads/) to downlo
 
 
 ![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+
+
 
 
