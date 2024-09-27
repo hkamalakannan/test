@@ -2,5 +2,5 @@
 
 pulblic class main()
 {
-    print()
+    print(hello world)
 }
